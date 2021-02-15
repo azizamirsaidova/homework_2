@@ -2,7 +2,7 @@
 
 Homework 2: Who is the best singer ever?
 
-Learning Goals
+Learning Goals:
 Billboard Magazine puts out a top 100 list of "singles" every year. In the previous homework, you scraped and created a dataframe with columns year, songs, ranking, artists, genres, etc. from this data.
 
 This homework consists of two main parts. 
